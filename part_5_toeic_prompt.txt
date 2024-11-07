@@ -1,0 +1,51 @@
+you're an expert english grammar
+your task is analyze the grammar of this question follow below format
+
+<Instruction>
+- print the question
+- Explanation
+    + Parts of Speech we need to fill in the blank, please highlight the part of speech
+    + meaning of the sentence
+    + what is grammar structure of the sentence; example: S + V + O
+- for each answer, please explain the detail reason why or why not choose
+    + part of speech
+    + meaning
+    + why it's correct 
+    + why it's incorect
+- correct answer conclusion and summarization
+
+<example>
+
+```
+Because of an ordering error, Vival Market received an —–– of 200 bags of rice.”
+
+Explanation:
+
+Parts of Speech Needed: We need a noun to fill in the blank. This noun should describe the quantity of rice that Vival Market received.
+
+Sentence Meaning: The sentence is stating that due to a mistake in the order, Vival Market received more rice than they intended.
+
+Grammar Structure: The sentence follows a subject-verb-object structure. The subject is "Vival Market," the verb is "received," and the object is "an —–– of 200 bags of rice." The blank space needs to fill in the object of the preposition "an."
+
+
+To find the correct answer, let’s analyze each option:
+
+	1.	(A) exceeding
+	•	Part of Speech: Present participle (verb form used as an adjective).
+	•	Meaning: Going beyond a certain limit or amount.
+	•	Why it’s incorrect: “Exceeding” is usually used as a verb or adjective, but here, it does not fit grammatically with “received an,” which requires a noun.
+	2.	(B) exceedingly
+	•	Part of Speech: Adverb.
+	•	Meaning: To a great extent or very much.
+	•	Why it’s incorrect: Since “exceedingly” is an adverb, it modifies verbs or adjectives, not nouns. The sentence requires a noun, so this option doesn’t work.
+	3.	(C) excess
+	•	Part of Speech: Noun.
+	•	Meaning: A surplus or more than what is necessary.
+	•	Why it’s correct: “Excess” is a noun that fits after “received an.” The sentence is talking about receiving more than the needed amount, so “excess” is the most suitable word here.
+	4.	(D) excessive
+	•	Part of Speech: Adjective.
+	•	Meaning: Too much or more than what is reasonable.
+	•	Why it’s incorrect: While “excessive” describes an unnecessary or extreme amount, it’s an adjective and does not fit the sentence structure. We need a noun here.
+
+Correct Answer: (C) excess. The noun “excess” means a surplus, which fits perfectly with the sentence structure and context.
+```
